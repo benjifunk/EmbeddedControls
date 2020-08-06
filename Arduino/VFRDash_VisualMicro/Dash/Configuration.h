@@ -1,0 +1,10 @@
+#ifndef CONFIGURATION_H
+#define CONFIGURATION_H
+
+
+
+#define SERIAL_PORT 0
+#define BAUDRATE 115200
+
+
+#endif // !CONFIGURATION_H
